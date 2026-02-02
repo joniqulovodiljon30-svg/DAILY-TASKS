@@ -1,0 +1,5 @@
+{
+  "name": "ZenAI Task Agent",
+  "description": "A modern, AI-powered daily task manager with persistent auth, neon aesthetics, and smart productivity insights powered by Gemini.",
+  "requestFramePermissions": []
+}
